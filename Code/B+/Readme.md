@@ -1,1 +1,1 @@
-These are the simple codes, which do not modify the gameplay of the game
+These are the B+ category codes, they do not modify the gameplay of the game

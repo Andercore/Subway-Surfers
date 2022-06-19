@@ -1,0 +1,276 @@
+{
+  "dailyVideo": {
+    "id": "dailyVideo",
+    "adPlacementId": "DailyVideo",
+    "rewardLootTable": "dailyVideoPopup_loottable",
+    "dailyCap": -1,
+    "sessionCap": -1,
+    "endRunSessionCap": -1
+  },
+  "interstitialsData": {
+    "globalCaps": [
+      {
+        "requirements": {
+          "data": [
+            {
+              "type": "IsRegionTier",
+              "value": "1"
+            }
+          ]
+        },
+        "sessionCap": -1,
+        "dailyCap": -1,
+        "minInterval": -1
+      },
+      {
+        "requirements": {
+          "data": [
+            {
+              "type": "IsRegionTier",
+              "value": "2"
+            }
+          ]
+        },
+        "sessionCap": -1,
+        "dailyCap": -1,
+        "minInterval": -1
+      },
+      {
+        "requirements": {
+          "data": [
+            {
+              "type": "IsRegionTier",
+              "value": "3"
+            }
+          ]
+        },
+        "sessionCap": -1,
+        "dailyCap": -1,
+        "minInterval": -1
+      },
+      {
+        "sessionCap": -1,
+        "dailyCap": -1,
+        "minInterval": -1
+      }
+    ],
+    "interstitials": [
+      {
+        "id": "BeforeEndRun",
+        "adPlacementId": "BeforeEndRun",
+        "dailyCap": -1,
+        "sessionCap": -1,
+        "interstitialRequirements": {
+          "data": [
+            {
+              "type": "DefaultInterstitialRules"
+            }
+          ]
+        }
+      },
+      {
+        "id": "BeforeReRun",
+        "adPlacementId": "BeforeReRun",
+        "dailyCap": -1,
+        "sessionCap": -1,
+        "interstitialRequirements": {
+          "data": [
+            {
+              "type": "DefaultInterstitialRules"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ReturnToMain",
+        "adPlacementId": "ReturnToMain",
+        "dailyCap": -1,
+        "sessionCap": -1,
+        "interstitialRequirements": {
+          "data": [
+            {
+              "type": "DefaultInterstitialRules"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ReturnFromRun",
+        "adPlacementId": "ReturnFromRun",
+        "dailyCap": -1,
+        "sessionCap": -1,
+        "interstitialRequirements": {
+          "data": [
+            {
+              "type": "DefaultInterstitialRules"
+            }
+          ]
+        }
+      },
+      {
+        "id": "AppOpen",
+        "adPlacementId": "AppOpen",
+        "dailyCap": -1,
+        "sessionCap": -1,
+        "interstitialRequirements": {
+          "data": [
+            {
+              "type": "DefaultInterstitialRules"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "adPlacements": [
+    {
+      "id": "offlineEarnings",
+      "adPlacementId": "RewardedPopupOfflineEarnings",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "timedRiches",
+      "adPlacementId": "RewardedPopupTimedRiches",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "surpriseGiftPopup",
+      "adPlacementId": "RewardedPopupSurpriseGift",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "needHoverBoards",
+      "adPlacementId": "NeedHoverBoards",
+      "dailyCap": -1,
+      "sessionCap": -1,
+      "reward": {
+        "type": "Currency",
+        "id": "Hoverboards",
+        "value": 3
+      }
+    },
+    {
+      "id": "needHeadStart",
+      "adPlacementId": "NeedHeadStart",
+      "dailyCap": -1,
+      "sessionCap": -1,
+      "reward": {
+        "type": "Currency",
+        "id": "HeadStarts",
+        "value": 1
+      }
+    },
+    {
+      "id": "needScoreBooster",
+      "adPlacementId": "NeedScoreBooster",
+      "dailyCap": -1,
+      "sessionCap": -1,
+      "reward": {
+        "type": "Currency",
+        "id": "ScoreBoosters",
+        "value": 1
+      }
+    },
+    {
+      "id": "freeCoins",
+      "adPlacementId": "FreeCoins",
+      "dailyCap": -1,
+      "sessionCap": -1,
+      "rewardLootTable": "freeCoins_loottable"
+    },
+    {
+      "id": "skipMission",
+      "adPlacementId": "SkipMission",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "skipCharacter",
+      "adPlacementId": "SkipCharacter",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "reviveWithAds",
+      "adPlacementId": "ReviveWithAd",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "coinKing",
+      "adPlacementId": "CoinKing",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "worldMapTryCity",
+      "adPlacementId": "WorldMapTryCity",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "rewardDoubler",
+      "adPlacementId": "RewardDoubler",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "rewardTripler",
+      "adPlacementId": "RewardTripler",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "rewardQuadrupler",
+      "adPlacementId": "RewardQuadrupler",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "challengeReward",
+      "adPlacementId": "ChallengeReward",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "tryCharacter",
+      "adPlacementId": "TryCharacter",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "freeLootBox",
+      "adPlacementId": "FreeLootBox",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "flashDealsDefault",
+      "adPlacementId": "FlashDealsDefault",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "challengeRewardDoubler",
+      "adPlacementId": "ChallengeRewardDoubler",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "missedCalendarReward",
+      "adPlacementId": "MissedCalendarReward",
+      "dailyCap": -1,
+      "sessionCap": -1
+    },
+    {
+      "id": "skipCharacterCooldown",
+      "adPlacementId": "SkipCharacterCooldown",
+      "dailyCap": -1,
+      "sessionCap": -1
+    }
+  ],
+  "$schema": "../schema/adPlacements_schema.json"
+}

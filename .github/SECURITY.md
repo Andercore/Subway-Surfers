@@ -1,21 +1,30 @@
 # Security Policy
 
-## Supported Versions
+## Supported versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+| Version | Supported          | last version |
+| ------- | ------------------ | ------------ |
+| 2.35.0  | :white_check_mark: | :white_check_mark: |
+| 2.34.0  | :white_check_mark: |
+| 2.33.0  | :white_check_mark: |
+| 2.32.0  | :white_check_mark: |
+| 2.31.0  | :white_check_mark: |
+| 2.30.0  | :white_check_mark: |
+| 2.29.0  | :white_check_mark: |
+| 2.28.0  | :white_check_mark: |
+| 2.27.0  | :white_check_mark: |
+| 2.26.0  | :white_check_mark: |
+| 2.25.0  | :white_check_mark: |
+| 2.24.0  | :white_check_mark: |
+| 2.23.0  | :white_check_mark: |
+| 2.22.0  | :white_check_mark: |
+| 2.21.0  | :white_check_mark: |
+| 2.20.0  | :white_check_mark: |
+| 2.19.0  | :white_check_mark: |
+| 2.17.3  | :white_check_mark: |
+| Below   | :x:                |
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## Problems
 
-## Reporting a Vulnerability
+Sometimes with the change of season the code name is changed and it stops working
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.

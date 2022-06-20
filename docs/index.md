@@ -1,4 +1,4 @@
-here you can find some games to have things in the game, as well as codes to change the game's gameplay.
+Here you can find some games to have things in the game, as well as codes to change the game's gameplay.
 
 ## Lasted Version
 

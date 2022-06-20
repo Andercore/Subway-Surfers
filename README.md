@@ -1,6 +1,6 @@
 # Subway-Surfers
 
-Some files to have things in the game
+Some codes to have things in the game
 ___
 
-Note: Files will be updated every month !
+Note: The codes will always be updated at the beginning of each season

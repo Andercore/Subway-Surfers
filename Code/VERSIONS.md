@@ -2,7 +2,7 @@
 
 | Version | Supported          | last version |
 | ------- | ------------------ | ------------ |
-| 2.35.0  | :white_check_mark: | :white_check_mark: |
+| 2.35.0  | :white_check_mark: | 2.35.2       |
 | 2.34.0  | :white_check_mark: |
 | 2.33.0  | :white_check_mark: |
 | 2.32.0  | :white_check_mark: |

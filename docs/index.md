@@ -17,9 +17,11 @@ Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers
 
 [Download](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 
-## Licence
+## Licence & Code of conduct
 
-See the Licence [here](https://github.com/Andercore/Subway-Surfers/blob/Main/LICENSE)
+[Licence](https://github.com/Andercore/Subway-Surfers/blob/Main/LICENSE)
+
+[Code of Conduct](https://github.com/Andercore/Subway-Surfers/blob/Main/CODE_OF_CONDUCT.md)
 
 ## Support
 

@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+here you can find some games to have things in the game, as well as codes to change the game's gameplay.
 
-You can use the [editor on GitHub](https://github.com/Andercore/Subway-Surfers/edit/Main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lasted Version
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+2.35.2
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/VERSIONS.md).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Download the official game
 
-### Jekyll Themes
+[Download](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andercore/Subway-Surfers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Support
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any problems or doubts you can see this article to help, and if you still have problems or doubts you can contact me via email: ts1950390@gmail.com.

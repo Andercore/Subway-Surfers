@@ -27,4 +27,4 @@ Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers
 
 You can suport me [here](https://github.com/Andercore/Subway-Surfers/blob/Main/CONTRIBUTING.md)
 
-If you have any problems or doubts you can see [this article](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/IMPORTANT.md) to help, and if you still have problems or doubts you can contact me via email: ts1950390@gmail.com.
+If you have any problems or doubts you can see [this article](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/IMPORTANT.md) to help, and if you still have problems or doubts you can contact me via email: <mailto: ts1950390@gmail.com>

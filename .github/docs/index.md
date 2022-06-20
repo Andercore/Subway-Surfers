@@ -14,7 +14,7 @@ ___
 
 Last Version
 
-2.35.0
+2.35.2
 
 ```
 Click [here](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/VERSIONS.md) to check all suported versions

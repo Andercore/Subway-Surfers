@@ -17,7 +17,7 @@ Last Version
 2.35.0
 
 ```
-Click [here](https://github.com/Andercore/Subway-Surfers/blob/Main/.github/VERSIONS.md) to check all suported versions
+Click [here](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/VERSIONS.md) to check all suported versions
 ___
 
 ## Download the official game

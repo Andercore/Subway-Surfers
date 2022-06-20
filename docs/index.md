@@ -7,7 +7,7 @@ Here you can find some games to have things in the game, as well as codes to cha
 2.35.2
 
 ```
-Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/Code/VERSIONS.md).
+Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/SECURITY.md).
 
 ## Download the official game
 

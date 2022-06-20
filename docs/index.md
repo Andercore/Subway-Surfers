@@ -1,8 +1,8 @@
-Here you can find some games to have things in the game, as well as codes to change the game's gameplay.
-
 ## Code
 
-Click [here](https://github.com/Andercore/Subway-Surfers/tree/Main/Code) to go to code
+Here you can find some games to have things in the game, as well as codes to change the game's gameplay.
+
+[Code](https://github.com/Andercore/Subway-Surfers/tree/Main/Code) to go to code
 
 ## Lasted Version
 

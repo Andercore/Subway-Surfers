@@ -13,6 +13,12 @@ Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers
 
 [Download](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 
+## Licence
+
+See the Licence [here](https://github.com/Andercore/Subway-Surfers/blob/Main/LICENSE)
+
 ## Support
+
+You can suport me [here](https://github.com/Andercore/Subway-Surfers/blob/Main/CONTRIBUTING.md)
 
 If you have any problems or doubts you can see this article to help, and if you still have problems or doubts you can contact me via email: ts1950390@gmail.com.

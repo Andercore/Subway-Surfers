@@ -26,4 +26,4 @@
 
 ## Problems
 
-Sometimes with the change of season the code name is changed and it stops working, but most of the code works in any season
+Sometimes with the updates, the codes name changed and stops working!

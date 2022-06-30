@@ -8,7 +8,7 @@ Here you can find some games to have things in the game, as well as codes to cha
 
 ```markdown
 
-2.35.2
+2.36.0
 
 ```
 Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/SECURITY.md).

@@ -26,4 +26,4 @@
 
 ## Problems
 
-Sometimes with the updates, the codes name changed and stops working!
+sometimes with updates, the name of the codes changes and stops working, but for the most part it remains

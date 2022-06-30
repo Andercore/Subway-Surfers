@@ -1,0 +1,551 @@
+{
+  "globalFallbackRewards": {
+    "Character": {
+      "default": {
+        "type": "Flat",
+        "amount": 5,
+        "reward": {
+          "type": "Currency",
+          "id": "Keys"
+        }
+      }
+    },
+    "Hoverboard": {
+      "default": {
+        "type": "Flat",
+        "amount": 2,
+        "reward": {
+          "type": "Currency",
+          "id": "Keys"
+        }
+      }
+    },
+    "SeasonHuntToken": {
+      "default": {
+        "type": "Ratio",
+        "amount": 1,
+        "reward": {
+          "type": "Currency",
+          "id": "Keys"
+        }
+      }
+    },
+    "Currency": {
+      "default": {
+        "type": "Ratio",
+        "amount": 100,
+        "reward": {
+          "type": "Currency",
+          "id": "Coins"
+        }
+      },
+      "customIds": {
+        "EventCoins": {
+          "type": "Ratio",
+          "amount": 1,
+          "reward": {
+            "type": "Currency",
+            "id": "Coins"
+          }
+        }
+      }
+    }
+  },
+  "newProfileRewards": [
+    {
+      "type": "Currency",
+      "id": "Hoverboards",
+      "value": 10
+    },
+    {
+      "type": "Currency",
+      "id": "Keys",
+      "value": 5
+    },
+    {
+      "type": "Currency",
+      "id": "HeadStarts",
+      "value": 5
+    },
+    {
+      "type": "Currency",
+      "id": "ScoreBoosters",
+      "value": 5
+    },
+    {
+      "type": "Currency",
+      "id": "Coins",
+      "value": 10000
+    }
+  ],
+  "pickupDecorations": [
+    {
+      "pickupId": "coin",
+      "timeSlot": "season_0048_frank_coins",
+      "activationChance": 0.4
+    }
+  ],
+  "trackScreenShownEvent": true,
+  "allowKilooMigration": true,
+  "enableInterstitialSegmentsInClient": true,
+  "interstitialGracePeriod": 1,
+  "rvaiEnabled": true,
+  "rvaiTracking": true,
+  "promoCodesEnabledIOS": true,
+  "bobXPromoLink": "https://subwaysurfers.sng.link/Dqb8g/25t3",
+  "boombotPopupGroup": 0,
+  "endRunGroup": 0,
+  "dailyVideoPopupGroup": 2,
+  "dailyVideoPopupTimerThreshold": 2,
+  "availableMusicRelease": "2.36.0",
+  "availableMusic": [
+    {
+      "name": "ui.songTitles.default",
+      "active": true
+    },
+    {
+      "key": "music_iceland",
+      "name": "ui.songTitles.iceland",
+      "active": true
+    },
+    {
+      "key": "music_sanfrancisco_pride",
+      "name": "ui.songTitles.sanfrancisco",
+      "active": true
+    },
+    {
+      "key": "music_copenhagen_orchestral",
+      "name": "ui.songTitles.copenhagenorchestral",
+      "active": true
+    },
+    {
+      "key": "music_copenhagensuperrunner",
+      "name": "ui.songTitles.copenhagensuperrunner",
+      "active": true
+    },
+    {
+      "key": "music_monaco",
+      "name": "ui.songTitles.monaco",
+      "active": true
+    },
+    {
+      "key": "music_oxford",
+      "name": "ui.songTitles.oxford",
+      "active": true
+    },
+    {
+      "key": "music_vancouver",
+      "name": "ui.songTitles.vancouver",
+      "active": true
+    },
+    {
+      "key": "music_generic",
+      "name": "ui.songTitles.original",
+      "active": true
+    },
+    {
+      "key": "music_barcelona",
+      "name": "ui.songTitles.barcelona",
+      "active": true
+    },
+    {
+      "key": "music_lunarnewyear",
+      "name": "ui.songTitles.lunarnewyear",
+      "active": true
+    },
+    {
+      "key": "music_cairo",
+      "name": "ui.songTitles.cairo",
+      "active": true
+    },
+    {
+      "key": "music_thenorthpole",
+      "name": "ui.songTitles.thenorthpole",
+      "active": true
+    },
+    {
+      "key": "music_st_petersburg",
+      "name": "ui.songTitles.st_petersburg",
+      "active": true
+    },
+    {
+      "key": "music_venicebeach",
+      "name": "ui.songTitles.venicebeach",
+      "active": true
+    },
+    {
+      "key": "music_mexicohalloween",
+      "name": "ui.songTitles.mexicocity",
+      "active": true
+    },
+    {
+      "key": "music_marrakesh",
+      "name": "ui.songTitles.marrakesh",
+      "active": true
+    },
+    {
+      "key": "music_lasvegas",
+      "name": "ui.songTitles.lasVegas",
+      "active": true
+    },
+    {
+      "key": "music_bornthisway",
+      "name": "ui.songTitles.bornthisway",
+      "active": true
+    },
+    {
+      "key": "music_bali",
+      "name": "ui.songTitles.bali"
+    },
+    {
+      "key": "music_berlin",
+      "name": "ui.songTitles.berlin",
+      "active": true
+    },
+    {
+      "key": "music_buenos_aires",
+      "name": "ui.songTitles.buenos_aires"
+    },
+    {
+      "key": "music_cambridgehalloween",
+      "name": "ui.songTitles.cambridge"
+    },
+    {
+      "key": "music_changan",
+      "name": "ui.songTitles.changan",
+      "active": true
+    },
+    {
+      "key": "music_edinburg",
+      "name": "ui.songTitles.edinburgh"
+    },
+    {
+      "key": "music_havana",
+      "name": "ui.songTitles.havana"
+    },
+    {
+      "key": "music_hawaii",
+      "name": "ui.songTitles.hawaii"
+    },
+    {
+      "key": "music_hong_kong",
+      "name": "ui.songTitles.hong_kong"
+    },
+    {
+      "key": "music_houston",
+      "name": "ui.songTitles.houston"
+    },
+    {
+      "key": "music_london",
+      "name": "ui.songTitles.london"
+    },
+    {
+      "key": "music_mexico",
+      "name": "ui.songTitles.mexico"
+    },
+    {
+      "key": "music_miami",
+      "name": "ui.songTitles.miami"
+    },
+    {
+      "key": "music_mumbai",
+      "name": "ui.songTitles.mumbai"
+    },
+    {
+      "key": "music_new_orleans",
+      "name": "ui.songTitles.new_orleans"
+    },
+    {
+      "key": "music_new_york",
+      "name": "ui.songTitles.new_york",
+      "active": true
+    },
+    {
+      "key": "music_paris",
+      "name": "ui.songTitles.paris",
+      "active": true
+    },
+    {
+      "key": "music_peru",
+      "name": "ui.songTitles.peru"
+    },
+    {
+      "key": "music_rio",
+      "name": "ui.songTitles.rio"
+    },
+    {
+      "key": "music_seattle",
+      "name": "ui.songTitles.seattle",
+      "active": true
+    },
+    {
+      "key": "music_space_station",
+      "name": "ui.songTitles.space_station",
+      "active": true
+    },
+    {
+      "key": "music_tokyo",
+      "name": "ui.songTitles.tokyo",
+      "active": true
+    }
+  ],
+  "regionTiers": [
+    [
+      "at",
+      "au",
+      "be",
+      "ca",
+      "ch",
+      "de",
+      "dk",
+      "fr",
+      "gb",
+      "hk",
+      "jp",
+      "nl",
+      "no",
+      "nz",
+      "se",
+      "tw",
+      "us"
+    ],
+    [
+      "ae",
+      "br",
+      "cn",
+      "es",
+      "fi",
+      "gr",
+      "ie",
+      "il",
+      "is",
+      "it",
+      "kr",
+      "lu",
+      "pl",
+      "pt",
+      "qa",
+      "ru",
+      "sg"
+    ],
+    [
+      "ad",
+      "af",
+      "ag",
+      "ai",
+      "al",
+      "am",
+      "an",
+      "ao",
+      "aq",
+      "ar",
+      "as",
+      "aw",
+      "ax",
+      "az",
+      "ba",
+      "bb",
+      "bd",
+      "bf",
+      "bg",
+      "bh",
+      "bi",
+      "bj",
+      "bl",
+      "bm",
+      "bn",
+      "bo",
+      "bq",
+      "bs",
+      "bt",
+      "bv",
+      "bw",
+      "by",
+      "bz",
+      "cc",
+      "cd",
+      "cf",
+      "cg",
+      "ci",
+      "ck",
+      "cl",
+      "cm",
+      "co",
+      "cr",
+      "cu",
+      "cv",
+      "cw",
+      "cx",
+      "cy",
+      "cz",
+      "dj",
+      "dm",
+      "do",
+      "dz",
+      "ec",
+      "ee",
+      "eg",
+      "eh",
+      "er",
+      "et",
+      "fj",
+      "fk",
+      "fm",
+      "fo",
+      "ga",
+      "gd",
+      "ge",
+      "gf",
+      "gg",
+      "gh",
+      "gi",
+      "gl",
+      "gm",
+      "gn",
+      "gp",
+      "gq",
+      "gs",
+      "gt",
+      "gu",
+      "gw",
+      "gy",
+      "hm",
+      "hn",
+      "hr",
+      "ht",
+      "hu",
+      "id",
+      "im",
+      "in",
+      "io",
+      "iq",
+      "ir",
+      "je",
+      "jm",
+      "jo",
+      "ke",
+      "kg",
+      "kh",
+      "ki",
+      "km",
+      "kn",
+      "kp",
+      "kw",
+      "ky",
+      "kz",
+      "la",
+      "lb",
+      "lc",
+      "li",
+      "lk",
+      "lr",
+      "ls",
+      "lt",
+      "lv",
+      "ly",
+      "ma",
+      "mc",
+      "md",
+      "me",
+      "mf",
+      "mg",
+      "mh",
+      "mk",
+      "ml",
+      "mm",
+      "mn",
+      "mo",
+      "mp",
+      "mq",
+      "mr",
+      "ms",
+      "mt",
+      "mu",
+      "mv",
+      "mw",
+      "mx",
+      "my",
+      "mz",
+      "na",
+      "nc",
+      "ne",
+      "nf",
+      "ng",
+      "ni",
+      "np",
+      "nr",
+      "nu",
+      "om",
+      "pa",
+      "pe",
+      "pf",
+      "pg",
+      "ph",
+      "pk",
+      "pm",
+      "pn",
+      "pr",
+      "ps",
+      "pw",
+      "py",
+      "re",
+      "ro",
+      "rs",
+      "rw",
+      "sa",
+      "sb",
+      "sc",
+      "sd",
+      "sh",
+      "si",
+      "sj",
+      "sk",
+      "sl",
+      "sm",
+      "sn",
+      "so",
+      "sr",
+      "ss",
+      "st",
+      "sv",
+      "sx",
+      "sy",
+      "sz",
+      "tc",
+      "td",
+      "tf",
+      "tg",
+      "th",
+      "tj",
+      "tk",
+      "tl",
+      "tm",
+      "tn",
+      "to",
+      "tr",
+      "tt",
+      "tv",
+      "tz",
+      "ua",
+      "ug",
+      "um",
+      "uy",
+      "uz",
+      "va",
+      "vc",
+      "ve",
+      "vg",
+      "vi",
+      "vn",
+      "vu",
+      "wf",
+      "ws",
+      "xk",
+      "ye",
+      "yt",
+      "za",
+      "zm",
+      "zw"
+    ]
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "featuredCityData": [
+    {
+      "featuredCityID": "spaceStation",
+      "timeSlot": "season_0052_forever"
+    },
+    {
+      "featuredCityID": "sanFrancisco",
+      "timeSlot": "season_0051"
+    },
+    {
+      "featuredCityID": "copenhagen",
+      "timeSlot": "season_0050"
+    },
+    {
+      "featuredCityID": "monaco",
+      "timeSlot": "season_0049"
+    }
+  ],
+  "worldMapActive": true,
+  "fallbackBundledCityID": "sanFrancisco",
+  "mapCityData": [
+    {
+      "angleCoordinates": {
+        "xCoordinate": 72,
+        "yCoordinate": 34.5
+      },
+      "id": "marrakesh",
+      "isActive": true,
+      "unlockProduct": "marrakesh"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": -62.5,
+        "yCoordinate": 57.5
+      },
+      "id": "seoul",
+      "isActive": true,
+      "unlockProduct": "seoul"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 41.5,
+        "yCoordinate": 27
+      },
+      "id": "amsterdam",
+      "isActive": true,
+      "unlockProduct": "amsterdam"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 61.5,
+        "yCoordinate": 30.5
+      },
+      "id": "barcelona",
+      "isActive": true,
+      "unlockProduct": "barcelona"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 42,
+        "yCoordinate": 14.5
+      },
+      "id": "berlin",
+      "isActive": true,
+      "unlockProduct": "berlin"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 36.29999923706055,
+        "yCoordinate": 18.5
+      },
+      "id": "copenhagen",
+      "isActive": true,
+      "unlockProduct": "copenhagen"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 36.29999923706055,
+        "yCoordinate": 18.5
+      },
+      "id": "copenhagenviking",
+      "isActive": true,
+      "unlockProduct": "copenhagenviking"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 36.29999923706055,
+        "yCoordinate": 18.5
+      },
+      "id": "copenhagensuperrunner",
+      "isActive": true,
+      "unlockProduct": "copenhagensuperrunner"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 41.5,
+        "yCoordinate": 33
+      },
+      "id": "london",
+      "isActive": true,
+      "unlockProduct": "london"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 60,
+        "yCoordinate": 21.5
+      },
+      "id": "monaco",
+      "isActive": true,
+      "unlockProduct": "monaco"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 47.5,
+        "yCoordinate": 11.5
+      },
+      "id": "prague",
+      "isActive": true,
+      "unlockProduct": "prague"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 55.5,
+        "yCoordinate": 15
+      },
+      "id": "venice",
+      "isActive": true,
+      "unlockProduct": "venice"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 53.5,
+        "yCoordinate": 20
+      },
+      "id": "zurich",
+      "isActive": true,
+      "unlockProduct": "zurich"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 62,
+        "yCoordinate": 13
+      },
+      "assetBundle": "rome_Placeholder",
+      "id": "rome",
+      "isActive": true,
+      "unlockProduct": "rome"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 74.5,
+        "yCoordinate": 116
+      },
+      "id": "miami",
+      "isActive": true,
+      "unlockProduct": "miami"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 39,
+        "yCoordinate": -16
+      },
+      "id": "moscow",
+      "isActive": true,
+      "unlockProduct": "moscow"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 130,
+        "yCoordinate": 73.5
+      },
+      "id": "rio",
+      "isActive": true,
+      "unlockProduct": "rio"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 65,
+        "yCoordinate": 157.5
+      },
+      "id": "sanFrancisco",
+      "isActive": true,
+      "unlockProduct": "sanFrancisco"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 70.5,
+        "yCoordinate": -118.5
+      },
+      "id": "shanghai",
+      "isActive": true,
+      "unlockProduct": "shanghai"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 143.5,
+        "yCoordinate": -151
+      },
+      "id": "sydney",
+      "isActive": true,
+      "unlockProduct": "sydney"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 0,
+        "yCoordinate": 0
+      },
+      "id": "theNorthPole",
+      "isActive": true,
+      "unlockProduct": "theNorthPole"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 64.5,
+        "yCoordinate": -137.5
+      },
+      "id": "tokyo",
+      "isActive": true,
+      "unlockProduct": "tokyo"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 114.5,
+        "yCoordinate": -117.5
+      },
+      "id": "bali",
+      "isActive": true,
+      "unlockProduct": "bali"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 81,
+        "yCoordinate": -30
+      },
+      "id": "arabia",
+      "isActive": true,
+      "unlockProduct": "arabia"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 89,
+        "yCoordinate": -99
+      },
+      "id": "bangkok",
+      "isActive": true,
+      "unlockProduct": "bangkok"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 144,
+        "yCoordinate": 87.5
+      },
+      "id": "buenosAires",
+      "isActive": true,
+      "unlockProduct": "buenosAires"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 75.5,
+        "yCoordinate": -16
+      },
+      "id": "cairo",
+      "isActive": true,
+      "unlockProduct": "cairo"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 52.5,
+        "yCoordinate": 120
+      },
+      "id": "chicago",
+      "isActive": true,
+      "unlockProduct": "chicago"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 70,
+        "yCoordinate": -180
+      },
+      "id": "hawaii",
+      "isActive": true,
+      "unlockProduct": "hawaii"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 79.5,
+        "yCoordinate": -113
+      },
+      "id": "hongKong",
+      "isActive": true,
+      "unlockProduct": "hongKong"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 31,
+        "yCoordinate": 42
+      },
+      "id": "iceland",
+      "isActive": true,
+      "unlockProduct": "iceland"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 126.5,
+        "yCoordinate": -34
+      },
+      "id": "madagascar",
+      "isActive": true,
+      "unlockProduct": "madagascar"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 114,
+        "yCoordinate": 113.5
+      },
+      "id": "peru",
+      "isActive": true,
+      "unlockProduct": "peru"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 67,
+        "yCoordinate": 119.5
+      },
+      "id": "atlanta",
+      "isActive": true,
+      "unlockProduct": "atlanta"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 59.5,
+        "yCoordinate": -109.5
+      },
+      "id": "beijing",
+      "isActive": true,
+      "unlockProduct": "beijing"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 71,
+        "yCoordinate": -102
+      },
+      "id": "chengdu",
+      "isActive": true,
+      "unlockProduct": "chengdu"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 77,
+        "yCoordinate": -44
+      },
+      "id": "dubai",
+      "isActive": true,
+      "unlockProduct": "dubai"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 62,
+        "yCoordinate": -99
+      },
+      "id": "gansu",
+      "isActive": true,
+      "unlockProduct": "gansu"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 77.5,
+        "yCoordinate": -111
+      },
+      "id": "guangzhou",
+      "isActive": true,
+      "unlockProduct": "guangzhou"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 76,
+        "yCoordinate": -109
+      },
+      "id": "guilin",
+      "isActive": true,
+      "unlockProduct": "guilin"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 72,
+        "yCoordinate": -116
+      },
+      "id": "hangzhou",
+      "isActive": true,
+      "unlockProduct": "hangzhou"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 53,
+        "yCoordinate": -121
+      },
+      "id": "harbin",
+      "isActive": true,
+      "unlockProduct": "harbin"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 79.5,
+        "yCoordinate": 117.5
+      },
+      "id": "havana",
+      "isActive": true,
+      "unlockProduct": "havana"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 71,
+        "yCoordinate": 132
+      },
+      "id": "houston",
+      "isActive": true,
+      "unlockProduct": "houston"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 79.5,
+        "yCoordinate": -110.5
+      },
+      "id": "macau",
+      "isActive": true,
+      "unlockProduct": "macau"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 71.5,
+        "yCoordinate": 127
+      },
+      "id": "newOrleans",
+      "isActive": true,
+      "unlockProduct": "newOrleans"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 84,
+        "yCoordinate": -109
+      },
+      "id": "sanya",
+      "isActive": true,
+      "unlockProduct": "sanya"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 102,
+        "yCoordinate": -103.5
+      },
+      "id": "singapore",
+      "isActive": true,
+      "unlockProduct": "singapore"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 30.5,
+        "yCoordinate": -6.5
+      },
+      "id": "stPetersburg",
+      "isActive": true,
+      "unlockProduct": "stPetersburg"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 55,
+        "yCoordinate": -3
+      },
+      "id": "transylvania",
+      "isActive": true,
+      "unlockProduct": "transylvania"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 58.5,
+        "yCoordinate": 105
+      },
+      "id": "washingtonDC",
+      "isActive": true,
+      "unlockProduct": "washingtonDC"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 66.5,
+        "yCoordinate": -106.5
+      },
+      "id": "xian",
+      "isActive": true,
+      "unlockProduct": "xian"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 3,
+        "yCoordinate": 56
+      },
+      "id": "edinburgh",
+      "isActive": true,
+      "unlockProduct": "edinburgh"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 92,
+        "yCoordinate": 35
+      },
+      "id": "littleRock",
+      "isActive": true,
+      "unlockProduct": "littleRock"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 74.5,
+        "yCoordinate": 116
+      },
+      "id": "miaminfl",
+      "isActive": true,
+      "unlockProduct": "miami"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 74.5,
+        "yCoordinate": 116
+      },
+      "id": "cambridgehalloween",
+      "isActive": true,
+      "unlockProduct": "cambridgehalloween"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 0,
+        "yCoordinate": 0
+      },
+      "id": "seattle",
+      "isActive": true,
+      "unlockProduct": "seattle"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 74.5,
+        "yCoordinate": 116
+      },
+      "id": "spaceStation",
+      "isActive": true,
+      "unlockProduct": "spaceStation"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 71,
+        "yCoordinate": -102
+      },
+      "id": "journeytotheEast",
+      "isActive": true,
+      "unlockProduct": "journeytotheEast"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": -130,
+        "yCoordinate": 58
+      },
+      "id": "oxford",
+      "isActive": true,
+      "unlockProduct": "oxford"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 82.5,
+        "yCoordinate": -66.5
+      },
+      "id": "mumbai",
+      "isActive": true,
+      "unlockProduct": "mumbai"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 57,
+        "yCoordinate": 100.5
+      },
+      "id": "newYork",
+      "isActive": true,
+      "unlockProduct": "newYork"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 47.5,
+        "yCoordinate": 29
+      },
+      "id": "paris",
+      "isActive": true,
+      "unlockProduct": "paris"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 66.5,
+        "yCoordinate": -106.5
+      },
+      "id": "changan",
+      "isActive": true,
+      "unlockProduct": "changan"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 67,
+        "yCoordinate": 155.5
+      },
+      "id": "veniceBeach",
+      "isActive": true,
+      "unlockProduct": "veniceBeach"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 65.5,
+        "yCoordinate": 151.5
+      },
+      "id": "lasVegas",
+      "isActive": true,
+      "unlockProduct": "lasVegas"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 78,
+        "yCoordinate": 142
+      },
+      "id": "mexicocity",
+      "isActive": true,
+      "unlockProduct": "mexicocity"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 0,
+        "yCoordinate": 0
+      },
+      "id": "vancouverspring",
+      "isActive": true,
+      "unlockProduct": "vancouverspring"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 0,
+        "yCoordinate": 0
+      },
+      "id": "vancouverautumn",
+      "isActive": true,
+      "unlockProduct": "vancouverautumn"
+    },
+    {
+      "angleCoordinates": {
+        "xCoordinate": 66.5,
+        "yCoordinate": -106.5
+      },
+      "id": "lunarnewyear",
+      "isActive": true,
+      "unlockProduct": "lunarnewyear"
+    }
+  ]
+}

@@ -11,7 +11,7 @@ Here you can find some games to have things in the game, as well as codes to cha
  《 2.36.0 》
 
 ```
-Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/SECURITY.md).
+Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers/blob/Main/COMPATIBILITY.md).
 
 ## Download the official game
 
@@ -20,8 +20,6 @@ Check all compatible versions [here](https://github.com/Andercore/Subway-Surfers
 ## Licence & Code of conduct
 
 [Licence](https://github.com/Andercore/Subway-Surfers/blob/Main/LICENSE)
-
-[Code of Conduct](https://github.com/Andercore/Subway-Surfers/blob/Main/CODE_OF_CONDUCT.md)
 
 ## Support
 
